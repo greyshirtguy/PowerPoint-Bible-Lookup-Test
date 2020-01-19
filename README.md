@@ -1,8 +1,5 @@
 # PowerPoint-Bible-Lookup-Test
 
-
-![VerseChooserScreenShot](https://github.com/greyshirtguy/PowerPoint-Bible-Lookup-Test/blob/master/VerseChooser.jpg)
-
 Playing with VBA code to automate lookup of bible scriptures on Internet and create nicely formatted PowerPoint slides
 
 Tested and working in PowerPoint 1902 (Office 365)
@@ -16,6 +13,8 @@ Tested and working in PowerPoint 1902 (Office 365)
 * Type appropiate numbers in Chapter, StartVerse and EndVerse
 * Click "Build Slides"
 * Watch as a new presentation is automatically built containing the selected verses, all formatted nicely using the previously selected slide as a template.
+
+![VerseChooserScreenShot](https://github.com/greyshirtguy/PowerPoint-Bible-Lookup-Test/blob/master/VerseChooser.jpg)
 
 ![Example](https://github.com/greyshirtguy/PowerPoint-Bible-Lookup-Test/blob/master/Example.jpg)
 
