@@ -17,4 +17,5 @@ Tested and working in PowerPoint 1902 (Office 365)
 * Click "Build Slides"
 * Watch as a new presentation is automatically built containing the selected verses, all formatted nicely using the previously selected slide as a template.
 
+![Example](https://github.com/greyshirtguy/PowerPoint-Bible-Lookup-Test/blob/master/Example.jpg)
 
